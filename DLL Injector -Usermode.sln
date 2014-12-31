@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL Injector -Usermode", "DLL Injector -Usermode\DLL Injector -Usermode.vcproj", "{BB5CCA62-6189-42B9-9DB6-030DB605A47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5CCA62-6189-42B9-9DB6-030DB605A47A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB5CCA62-6189-42B9-9DB6-030DB605A47A}.Debug|Win32.Build.0 = Debug|Win32
+		{BB5CCA62-6189-42B9-9DB6-030DB605A47A}.Release|Win32.ActiveCfg = Release|Win32
+		{BB5CCA62-6189-42B9-9DB6-030DB605A47A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
